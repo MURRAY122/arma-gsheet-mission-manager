@@ -40,12 +40,11 @@ type max name version.map
 
 for example:
 
-- co 10 example v1.Altis
+- co 10 example v1.Altis <br />
   If using DLC:
 - GM ad 10 exmaple v2.Tanoa
 
-A mission name CAN be the same as another within the same directory, so long as either the mission type or map is different.
-
+A mission name CAN be the same as another within the same directory, so long as either the mission type or map is different.<br />
 For example:
 
 - co 10 My Mission v1.Altis
