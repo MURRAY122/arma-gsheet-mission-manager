@@ -2,7 +2,7 @@
 
 Monitor multiple directories and handles/manages a google spreadsheet with missions based on file names within the directory. This script was just a small project for me to work with gsheets but it might be of some use.
 
-### Setup
+## Setup
 
 Install pip packages via the requirments.txt file.
 
@@ -32,7 +32,7 @@ Create a google spreadsheet and obtain the ID from its URL, Leave the sheet Blan
 
 After that you should be good to go.
 
-### Mission File format
+## Mission File format
 
 Files MUST be a .pbo type
 File must follow the convention:
@@ -59,6 +59,6 @@ If a mission file is updated, This script will not delete the old version file f
 - co 10 My Mission v1.Altis # Old Will be removed from sheet
 - co 11 My Mission v2.Altis # Updated will be updated on sheet
 
-### Last note
+## Last note
 
 The top 3 rows of the spreadsheet will be skipped to allow for addition headers if required. However the default headers in row 2 must remain. Formatting can be done. Any rows the script adds to the sheet will copy the same format from the row above.
