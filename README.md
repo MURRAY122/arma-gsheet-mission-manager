@@ -41,7 +41,7 @@ type max name version.map
 for example:
 
 - co 10 example v1.Altis <br />
-  If using DLC:
+If using DLC:
 - GM ad 10 exmaple v2.Tanoa
 
 A mission name CAN be the same as another within the same directory, so long as either the mission type or map is different.<br />
@@ -51,7 +51,7 @@ For example:
 - ad 10 My Mission v1.Altis
 - co 10 My Mission v1.Tanoa
 - co 10 My Mission v1.Malden
-  Are all accetable within the same directory.
+Are all accetable within the same directory.
 
 If a mission file is updated, This script will not delete the old version file from the directory but will update the spreadsheet with the updated version information.
 
