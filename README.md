@@ -1,4 +1,4 @@
-## ArmaMissionGsheetManager
+## Arma Gsheet Mission Manager
 
 Monitor multiple directories and handles/manages a google spreadsheet with missions based on file names within the directory. This script was just a small project for me to work with gsheets but it might be of some use.
 
